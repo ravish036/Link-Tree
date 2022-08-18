@@ -44,7 +44,9 @@ body{
     margin-top: 2rem;
 }
 #one{
-    font-family: 'Merriweather', serif;
+     font-family: monospace;
     text-align: center;
     background-color: aqua;
+    font-size: 1.2rem;
+    font-weight: 500;
 }
